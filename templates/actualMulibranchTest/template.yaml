@@ -1,5 +1,5 @@
 version: 1
-name: Enterprise Standard Nx CI Template
+name: MultibranchRealTest
 type: pipeline-template
 templateType: MULTIBRANCH
 parameters:
