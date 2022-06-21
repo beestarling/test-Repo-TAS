@@ -1,0 +1,9 @@
+  version: 1
+  type: pipeline-template
+
+  name: Test1
+  description: Test 
+  parameters:
+    - name: echo
+      type: string
+      displayName: echo to say something
