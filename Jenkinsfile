@@ -1,1 +1,0 @@
-echo "multibranch1"
